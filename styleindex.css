@@ -1,0 +1,35 @@
+nav{
+    height: 6000px;
+    width:  200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+    font-size:larger;
+}
+
+body{
+    background-color: rgb(245, 233, 233);
+}
+
+h2{
+    color:rgb(167, 57, 57);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+p{
+    color: blueviolet;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: justify;
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+    margin-top: 100px;
+}
+
+#memeimage{
+    margin-right: 200px;
+}
